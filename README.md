@@ -1,2 +1,2 @@
 # Primeiro
-Meu primeiro repositório.
+My first repository created for the Application Development CU.
